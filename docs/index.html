@@ -1,2 +1,11 @@
-<!doctype html><meta charset=utf-8><meta name=robots content="noindex"><title>KC Events</title>
-<p style="font:16px system-ui;margin:2rem">First build hasn't run yet.</p>
+<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=robots content="noindex"><title>KC Events</title>
+<style>body{font:16px system-ui;max-width:640px;margin:1rem auto;padding:0 1rem}
+.ev{padding:.6rem 0;border-bottom:1px solid #8884}.m{color:#888;font-size:.9rem}
+select{font-size:1rem;margin:.5rem 0}</style>
+<h1>KC Events</h1>
+<select onchange="document.querySelectorAll('.ev').forEach(e=>e.hidden=this.value&&e.dataset.cat!=this.value)">
+<option value="">All</option><option>music</option><option>food</option><option>art</option>
+<option>sports</option><option>community</option><option>other</option></select>
+
+<p class=m><a href="events.ics">Subscribe (calendar)</a></p>

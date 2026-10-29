@@ -31,8 +31,10 @@ only in the image.
 
 For every upcoming public event announced, output an object with: title, start (ISO 8601,
 America/Chicago), end (or null), venue, address (or null), price ("Free", "$15", or null),
-category (music|food|art|sports|community|other), summary (<=15 words), source (the POST url),
-account (the handle). Skip posts that are not upcoming events.
+category (music|food|art|market|community|other), summary (<=15 words), source (the POST url),
+account (the handle). Skip posts that are not upcoming events. Skip sports. Skip ticketed or
+paid concerts and shows; include music only when it is free to attend.
+Note in the summary when food or drink is free.
 Reply with ONLY a JSON list.
 
 {body}""", allow_read=True)

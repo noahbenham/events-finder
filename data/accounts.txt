@@ -1,0 +1,77 @@
+# Candidate Instagram handles, one per line. fetch.py checks each bio once and
+# keeps only KC accounts that post events (result cached in accounts.json).
+# Add a handle here any time; wrong guesses are filtered out automatically.
+
+# music (free shows, patios, jazz bars; big ticketed venues left out on purpose)
+recordbarkc
+lemonadeparkkc
+grinderskc
+rinokc
+minibarkc
+theriotroom
+greenladylounge
+nighthawk_kc
+lonniesrenoclub
+the_phoenix_kc
+bluroomkc
+americanjazzmuseum
+westportsaloon
+voltairekc
+thebrickkc
+davey_s_uptown
+mutual_musicians_foundation
+kcjazzalive
+90point9thebridge
+kcur
+
+# art
+kccrossroads
+belgerarts
+kemperartmuseum
+nelsonatkins
+charlottestreetfoundation
+leedyvoulkosartcenter
+kcai
+plugprojects
+vulpesbastille
+hauswerkkc
+artgardenkc
+1739gallery
+sherryleedygallery
+buttonwoodartspace
+kcartistscoalition
+studiosinc_kc
+
+# markets
+kccitymarket
+strawberryswingkc
+moonmarketkc
+brooksidefarmersmarket
+opfarmersmarket
+westportflea
+kcmakersmarket
+ivanhoefarmersmarket
+badseedkc
+
+# food, breweries, districts, aggregators
+kctoday
+visitkc
+thepitchkc
+kccrossroads
+westportkcmo
+kcpldistrict
+downtownkc
+unionstationkc
+kcparks
+boulevard_beer
+kcbier
+jriegerco
+brewerylabkc
+tornlabel
+cinderblockbrewery
+kcweekender
+eastcrossroads
+ilusmusic
+kansascitymag
+inkkc
+feastmagazine

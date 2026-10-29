@@ -25,7 +25,7 @@ select{{font-size:1rem;margin:.5rem 0}}</style>
 <h1>KC Events</h1>
 <select onchange="document.querySelectorAll('.ev').forEach(e=>e.hidden=this.value&&e.dataset.cat!=this.value)">
 <option value="">All</option><option>music</option><option>food</option><option>art</option>
-<option>sports</option><option>community</option><option>other</option></select>
+<option>market</option><option>community</option><option>other</option></select>
 {''.join(rows)}
 <p class=m><a href="events.ics">Subscribe (calendar)</a></p>"""
 open("docs/index.html", "w").write(page)
