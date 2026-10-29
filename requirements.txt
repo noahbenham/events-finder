@@ -1,1 +1,2 @@
 instaloader
+browser_cookie3
