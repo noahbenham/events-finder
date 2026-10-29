@@ -1,0 +1,6 @@
+.venv/
+.claude-personal/
+data/raw.json
+data/images/
+session-*
+.env

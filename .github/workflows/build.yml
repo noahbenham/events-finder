@@ -1,0 +1,42 @@
+name: Build events site
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 7am Central
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: pip install -r requirements.txt
+      - run: npm install -g @anthropic-ai/claude-code
+      - name: Restore Instagram session
+        run: echo "$INSTAGRAM_SESSION" | base64 -d > session-file
+        env:
+          INSTAGRAM_SESSION: ${{ secrets.INSTAGRAM_SESSION }}
+      - name: Fetch, extract, build
+        run: |
+          python scripts/fetch.py
+          python scripts/extract.py
+          python scripts/build.py
+        env:
+          INSTAGRAM_USER: ${{ secrets.INSTAGRAM_USER }}
+          INSTAGRAM_SESSION_FILE: session-file
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      - name: Commit results
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add docs data/events.json data/accounts.json
+          git diff --cached --quiet || git commit -m "Update events $(date -u +%F)"
+          git push
