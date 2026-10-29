@@ -57,7 +57,6 @@ badseedkc
 kctoday
 visitkc
 thepitchkc
-kccrossroads
 westportkcmo
 kcpldistrict
 downtownkc

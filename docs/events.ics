@@ -1,4 +1,140 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//events-finder//EN
+BEGIN:VEVENT
+UID:0-2026-10-30T13:00:00-05:00@events-finder
+DTSTAMP:20261030T130000
+DTSTART;TZID=America/Chicago:20261030T130000
+SUMMARY:Leedy Foundation Friday with D2 Research KC
+LOCATION:Leedy-Voulkos Art Center
+URL:https://www.instagram.com/p/De2bnHfhOLm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1-2026-10-31T08:00:00-05:00@events-finder
+DTSTAMP:20261031T080000
+DTSTART;TZID=America/Chicago:20261031T080000
+SUMMARY:Brookside Farmers Market (Outdoor)
+LOCATION:HJ's Community Center
+URL:https://www.instagram.com/p/De23c-asPUC/
+END:VEVENT
+BEGIN:VEVENT
+UID:2-2026-10-31T08:00:00-05:00@events-finder
+DTSTAMP:20261031T080000
+DTSTART;TZID=America/Chicago:20261031T080000
+SUMMARY:Overland Park Farmers Market (Saturday Market)
+LOCATION:Overland Park Farmers Market
+URL:https://www.instagram.com/p/De9ZRWMRkBK/
+END:VEVENT
+BEGIN:VEVENT
+UID:3-2026-10-31T11:00:00-05:00@events-finder
+DTSTAMP:20261031T110000
+DTSTART;TZID=America/Chicago:20261031T110000
+SUMMARY:Hallo-Zine: Halloween Zine Workshop
+LOCATION:Kansas City Artists Coalition
+URL:https://www.instagram.com/p/DfAsw-hgPIA/
+END:VEVENT
+BEGIN:VEVENT
+UID:4-2026-11-01@events-finder
+DTSTAMP:20261101T000000
+DTSTART;TZID=America/Chicago:20261101T000000
+SUMMARY:Art on Walnut (Final Day of Season)
+LOCATION:Art on Walnut, City Market
+URL:https://www.instagram.com/p/De7UkT2GTv3/
+END:VEVENT
+BEGIN:VEVENT
+UID:5-2026-11-01T08:00:00-05:00@events-finder
+DTSTAMP:20261101T080000
+DTSTART;TZID=America/Chicago:20261101T080000
+SUMMARY:Art on Walnut (Extended Final Weekend)
+LOCATION:City Market
+URL:https://www.instagram.com/p/De7d9K0hJ7D/
+END:VEVENT
+BEGIN:VEVENT
+UID:6-2026-11-01T10:00:00-06:00@events-finder
+DTSTAMP:20261101T100000
+DTSTART;TZID=America/Chicago:20261101T100000
+SUMMARY:Día de los Muertos Festival
+LOCATION:Nelson-Atkins Museum of Art
+URL:https://www.instagram.com/p/DfAQSBBl7P4/
+END:VEVENT
+BEGIN:VEVENT
+UID:7-2026-11-06T18:00:00-06:00@events-finder
+DTSTAMP:20261106T180000
+DTSTART;TZID=America/Chicago:20261106T180000
+SUMMARY:Beggars Bazaar
+LOCATION:Beggars Table Church & Gallery
+URL:https://www.instagram.com/p/DezaqmBFcT-/
+END:VEVENT
+BEGIN:VEVENT
+UID:8-2026-11-07T08:00:00-06:00@events-finder
+DTSTAMP:20261107T080000
+DTSTART;TZID=America/Chicago:20261107T080000
+SUMMARY:Brookside Farmers Market (Last Outdoor Market of 2026)
+LOCATION:HJ's Community Center
+URL:https://www.instagram.com/p/De23c-asPUC/
+END:VEVENT
+BEGIN:VEVENT
+UID:9-2026-11-19@events-finder
+DTSTAMP:20261119T000000
+DTSTART;TZID=America/Chicago:20261119T000000
+SUMMARY:Union Station's Indoor Pop-Up Holiday Market
+LOCATION:Union Station, Grand Hall East
+URL:https://www.instagram.com/p/DfAykiRCWFH/
+END:VEVENT
+BEGIN:VEVENT
+UID:10-2026-11-20@events-finder
+DTSTAMP:20261120T000000
+DTSTART;TZID=America/Chicago:20261120T000000
+SUMMARY:Holiday Reflections Walk-Thru Village
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfCizH5yYhy/
+END:VEVENT
+BEGIN:VEVENT
+UID:11-2026-11-20T17:00:00-06:00@events-finder
+DTSTAMP:20261120T170000
+DTSTART;TZID=America/Chicago:20261120T170000
+SUMMARY:Central States Regional Juried Exhibition – Preview Opening
+LOCATION:Kansas City Artists Coalition
+URL:https://www.instagram.com/p/DfFIhRJoIEM/
+END:VEVENT
+BEGIN:VEVENT
+UID:12-2026-11-21T08:00:00-06:00@events-finder
+DTSTAMP:20261121T080000
+DTSTART;TZID=America/Chicago:20261121T080000
+SUMMARY:Brookside Farmers Market (Indoor)
+LOCATION:HJ's Community Center
+URL:https://www.instagram.com/p/De23c-asPUC/
+END:VEVENT
+BEGIN:VEVENT
+UID:13-2026-12-04T17:00:00-06:00@events-finder
+DTSTAMP:20261204T170000
+DTSTART;TZID=America/Chicago:20261204T170000
+SUMMARY:Central States Regional Juried Exhibition – First Friday
+LOCATION:Kansas City Artists Coalition
+URL:https://www.instagram.com/p/DfFIhRJoIEM/
+END:VEVENT
+BEGIN:VEVENT
+UID:14-2027-01-04T00:00:00-06:00@events-finder
+DTSTAMP:20270104T000000
+DTSTART;TZID=America/Chicago:20270104T000000
+SUMMARY:Transformation: Benefit Exhibition for the National Kidney Foundation
+LOCATION:Buttonwood Financial Group + Art Space
+URL:https://www.instagram.com/p/DeznNOYFLB7/
+END:VEVENT
+BEGIN:VEVENT
+UID:15-2027-02-12T18:00:00-06:00@events-finder
+DTSTAMP:20270212T180000
+DTSTART;TZID=America/Chicago:20270212T180000
+SUMMARY:Science City After Hours (21+)
+LOCATION:Science City at Union Station
+URL:https://www.instagram.com/p/DfFHoIQnFiv/
+END:VEVENT
+BEGIN:VEVENT
+UID:16-2027-03-05T17:00:00-06:00@events-finder
+DTSTAMP:20270305T170000
+DTSTART;TZID=America/Chicago:20270305T170000
+SUMMARY:Transformation First Friday Reception
+LOCATION:Buttonwood Financial Group + Art Space
+URL:https://www.instagram.com/p/DeznNOYFLB7/
+END:VEVENT
 END:VCALENDAR
