@@ -2,7 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//events-finder//EN
 BEGIN:VEVENT
-UID:0-2026-10-30T13:00:00-05:00@events-finder
+UID:0-2026-10-30@events-finder
+DTSTAMP:20261030T000000
+DTSTART;TZID=America/Chicago:20261030T000000
+SUMMARY:Halloween Haunt at Worlds of Fun
+LOCATION:Worlds of Fun
+URL:https://www.instagram.com/p/DfFQB3gj6Ny/
+END:VEVENT
+BEGIN:VEVENT
+UID:1-2026-10-30@events-finder
+DTSTAMP:20261030T000000
+DTSTART;TZID=America/Chicago:20261030T000000
+SUMMARY:Static Bloom: Art Collective (Final Day)
+LOCATION:Leedy-Voulkos Art Center, Back Gallery
+URL:https://www.instagram.com/p/DfCyrWRRI9F/
+END:VEVENT
+BEGIN:VEVENT
+UID:2-2026-10-30T09:00:00-05:00@events-finder
+DTSTAMP:20261030T090000
+DTSTART;TZID=America/Chicago:20261030T090000
+SUMMARY:18th Annual Visions of the Flint Hills Exhibition
+LOCATION:Buttonwood Art Space
+URL:https://www.instagram.com/p/DfDOI2CCT3d/
+END:VEVENT
+BEGIN:VEVENT
+UID:3-2026-10-30T13:00:00-05:00@events-finder
 DTSTAMP:20261030T130000
 DTSTART;TZID=America/Chicago:20261030T130000
 SUMMARY:Leedy Foundation Friday with D2 Research KC
@@ -10,47 +34,47 @@ LOCATION:Leedy-Voulkos Art Center
 URL:https://www.instagram.com/p/De2bnHfhOLm/
 END:VEVENT
 BEGIN:VEVENT
-UID:1-2026-10-31T08:00:00-05:00@events-finder
+UID:4-2026-10-31T08:00:00-05:00@events-finder
 DTSTAMP:20261031T080000
 DTSTART;TZID=America/Chicago:20261031T080000
-SUMMARY:Brookside Farmers Market (Outdoor)
+SUMMARY:Brookside Farmers Market
 LOCATION:HJ's Community Center
 URL:https://www.instagram.com/p/De23c-asPUC/
 END:VEVENT
 BEGIN:VEVENT
-UID:2-2026-10-31T08:00:00-05:00@events-finder
+UID:5-2026-10-31T08:00:00-05:00@events-finder
 DTSTAMP:20261031T080000
 DTSTART;TZID=America/Chicago:20261031T080000
-SUMMARY:Overland Park Farmers Market (Saturday Market)
+SUMMARY:Overland Park Farmers Market Saturday Market
 LOCATION:Overland Park Farmers Market
 URL:https://www.instagram.com/p/De9ZRWMRkBK/
 END:VEVENT
 BEGIN:VEVENT
-UID:3-2026-10-31T11:00:00-05:00@events-finder
+UID:6-2026-10-31T11:00:00-05:00@events-finder
 DTSTAMP:20261031T110000
 DTSTART;TZID=America/Chicago:20261031T110000
 SUMMARY:Hallo-Zine: Halloween Zine Workshop
 LOCATION:Kansas City Artists Coalition
-URL:https://www.instagram.com/p/DfAsw-hgPIA/
+URL:https://www.instagram.com/p/DfGbqoOk8dH/
 END:VEVENT
 BEGIN:VEVENT
-UID:4-2026-11-01@events-finder
+UID:7-2026-11-01@events-finder
 DTSTAMP:20261101T000000
 DTSTART;TZID=America/Chicago:20261101T000000
-SUMMARY:Art on Walnut (Final Day of Season)
-LOCATION:Art on Walnut, City Market
+SUMMARY:Art on Walnut: Final Day of the Season
+LOCATION:Art on Walnut (City Market area)
 URL:https://www.instagram.com/p/De7UkT2GTv3/
 END:VEVENT
 BEGIN:VEVENT
-UID:5-2026-11-01T08:00:00-05:00@events-finder
+UID:8-2026-11-01T08:00:00-06:00@events-finder
 DTSTAMP:20261101T080000
 DTSTART;TZID=America/Chicago:20261101T080000
-SUMMARY:Art on Walnut (Extended Final Weekend)
+SUMMARY:Art on Walnut (Extended Weekend)
 LOCATION:City Market
 URL:https://www.instagram.com/p/De7d9K0hJ7D/
 END:VEVENT
 BEGIN:VEVENT
-UID:6-2026-11-01T10:00:00-06:00@events-finder
+UID:9-2026-11-01T10:00:00-06:00@events-finder
 DTSTAMP:20261101T100000
 DTSTART;TZID=America/Chicago:20261101T100000
 SUMMARY:Día de los Muertos Festival
@@ -58,23 +82,63 @@ LOCATION:Nelson-Atkins Museum of Art
 URL:https://www.instagram.com/p/DfAQSBBl7P4/
 END:VEVENT
 BEGIN:VEVENT
-UID:7-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:Beggars Bazaar
-LOCATION:Beggars Table Church & Gallery
-URL:https://www.instagram.com/p/DezaqmBFcT-/
+UID:10-2026-11-04T19:00:00-06:00@events-finder
+DTSTAMP:20261104T190000
+DTSTART;TZID=America/Chicago:20261104T190000
+SUMMARY:Artists in Dialogue: Heehyun Choi + Caitlin Horsmon
+LOCATION:Emily & Todd Voth Artspace at the Kansas City Art Institute
+URL:https://www.instagram.com/p/DfFzoUOjNX0/
 END:VEVENT
 BEGIN:VEVENT
-UID:8-2026-11-07T08:00:00-06:00@events-finder
+UID:11-2026-11-05T19:00:00-06:00@events-finder
+DTSTAMP:20261105T190000
+DTSTART;TZID=America/Chicago:20261105T190000
+SUMMARY:Chloe McFadden Live at The Phoenix
+LOCATION:The Phoenix
+URL:https://www.instagram.com/p/DfFYwMoR9bU/
+END:VEVENT
+BEGIN:VEVENT
+UID:12-2026-11-07@events-finder
+DTSTAMP:20261107T000000
+DTSTART;TZID=America/Chicago:20261107T000000
+SUMMARY:Troost United Fest 2026
+LOCATION:Troost Avenue
+URL:https://www.instagram.com/p/DfFvfc7DrFM/
+END:VEVENT
+BEGIN:VEVENT
+UID:13-2026-11-07T08:00:00-06:00@events-finder
 DTSTAMP:20261107T080000
 DTSTART;TZID=America/Chicago:20261107T080000
-SUMMARY:Brookside Farmers Market (Last Outdoor Market of 2026)
+SUMMARY:Brookside Farmers Market: Last Outdoor Market of 2026
 LOCATION:HJ's Community Center
 URL:https://www.instagram.com/p/De23c-asPUC/
 END:VEVENT
 BEGIN:VEVENT
-UID:9-2026-11-19@events-finder
+UID:14-2026-11-10T17:30:00-06:00@events-finder
+DTSTAMP:20261110T173000
+DTSTART;TZID=America/Chicago:20261110T173000
+SUMMARY:Community Listening Session
+LOCATION:The Guild
+URL:https://www.instagram.com/p/DfFeVeeCOVe/
+END:VEVENT
+BEGIN:VEVENT
+UID:15-2026-11-11T19:00:00-06:00@events-finder
+DTSTAMP:20261111T190000
+DTSTART;TZID=America/Chicago:20261111T190000
+SUMMARY:Artists in Dialogue: Eric Conrad + Larry Ossei-Mensah
+LOCATION:Emily & Todd Voth Artspace at the Kansas City Art Institute
+URL:https://www.instagram.com/p/DfFzoUOjNX0/
+END:VEVENT
+BEGIN:VEVENT
+UID:16-2026-11-18T19:00:00-06:00@events-finder
+DTSTAMP:20261118T190000
+DTSTART;TZID=America/Chicago:20261118T190000
+SUMMARY:Artists in Dialogue: Mikey Yates + Kimi Kitada
+LOCATION:Emily & Todd Voth Artspace at the Kansas City Art Institute
+URL:https://www.instagram.com/p/DfFzoUOjNX0/
+END:VEVENT
+BEGIN:VEVENT
+UID:17-2026-11-19@events-finder
 DTSTAMP:20261119T000000
 DTSTART;TZID=America/Chicago:20261119T000000
 SUMMARY:Union Station's Indoor Pop-Up Holiday Market
@@ -82,7 +146,7 @@ LOCATION:Union Station, Grand Hall East
 URL:https://www.instagram.com/p/DfAykiRCWFH/
 END:VEVENT
 BEGIN:VEVENT
-UID:10-2026-11-20@events-finder
+UID:18-2026-11-20@events-finder
 DTSTAMP:20261120T000000
 DTSTART;TZID=America/Chicago:20261120T000000
 SUMMARY:Holiday Reflections Walk-Thru Village
@@ -90,51 +154,91 @@ LOCATION:Union Station
 URL:https://www.instagram.com/p/DfCizH5yYhy/
 END:VEVENT
 BEGIN:VEVENT
-UID:11-2026-11-20T17:00:00-06:00@events-finder
+UID:19-2026-11-20@events-finder
+DTSTAMP:20261120T000000
+DTSTART;TZID=America/Chicago:20261120T000000
+SUMMARY:Holiday Reflections
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfFu1kBt5wc/
+END:VEVENT
+BEGIN:VEVENT
+UID:20-2026-11-20T17:00:00-06:00@events-finder
 DTSTAMP:20261120T170000
 DTSTART;TZID=America/Chicago:20261120T170000
-SUMMARY:Central States Regional Juried Exhibition – Preview Opening
+SUMMARY:Central States Regional Juried Exhibition: Preview Opening
 LOCATION:Kansas City Artists Coalition
 URL:https://www.instagram.com/p/DfFIhRJoIEM/
 END:VEVENT
 BEGIN:VEVENT
-UID:12-2026-11-21T08:00:00-06:00@events-finder
+UID:21-2026-11-21T08:00:00-06:00@events-finder
 DTSTAMP:20261121T080000
 DTSTART;TZID=America/Chicago:20261121T080000
-SUMMARY:Brookside Farmers Market (Indoor)
+SUMMARY:Brookside Farmers Market: Indoor Market
 LOCATION:HJ's Community Center
 URL:https://www.instagram.com/p/De23c-asPUC/
 END:VEVENT
 BEGIN:VEVENT
-UID:13-2026-12-04T17:00:00-06:00@events-finder
+UID:22-2026-12-04T17:00:00-06:00@events-finder
 DTSTAMP:20261204T170000
 DTSTART;TZID=America/Chicago:20261204T170000
-SUMMARY:Central States Regional Juried Exhibition – First Friday
+SUMMARY:Central States Regional Juried Exhibition: First Friday
 LOCATION:Kansas City Artists Coalition
 URL:https://www.instagram.com/p/DfFIhRJoIEM/
 END:VEVENT
 BEGIN:VEVENT
-UID:14-2027-01-04T00:00:00-06:00@events-finder
-DTSTAMP:20270104T000000
-DTSTART;TZID=America/Chicago:20270104T000000
-SUMMARY:Transformation: Benefit Exhibition for the National Kidney Foundation
-LOCATION:Buttonwood Financial Group + Art Space
-URL:https://www.instagram.com/p/DeznNOYFLB7/
+UID:23-2026-12-05T11:00:00-06:00@events-finder
+DTSTAMP:20261205T110000
+DTSTART;TZID=America/Chicago:20261205T110000
+SUMMARY:My Senior Year of the USA Workshop (Session 1)
+LOCATION:Kansas City Artists Coalition
+URL:https://www.instagram.com/p/DfFffRdEbQY/
 END:VEVENT
 BEGIN:VEVENT
-UID:15-2027-02-12T18:00:00-06:00@events-finder
+UID:24-2026-12-05T20:30:00-06:00@events-finder
+DTSTAMP:20261205T203000
+DTSTART;TZID=America/Chicago:20261205T203000
+SUMMARY:Tinsel & Tinis at Holiday Reflections
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfBGYBaOxCa/
+END:VEVENT
+BEGIN:VEVENT
+UID:25-2026-12-12T20:30:00-06:00@events-finder
+DTSTAMP:20261212T203000
+DTSTART;TZID=America/Chicago:20261212T203000
+SUMMARY:Tinsel & Tinis at Holiday Reflections
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfBGYBaOxCa/
+END:VEVENT
+BEGIN:VEVENT
+UID:26-2026-12-18T20:30:00-06:00@events-finder
+DTSTAMP:20261218T203000
+DTSTART;TZID=America/Chicago:20261218T203000
+SUMMARY:Tinsel & Tinis at Holiday Reflections
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfBGYBaOxCa/
+END:VEVENT
+BEGIN:VEVENT
+UID:27-2026-12-19T20:30:00-06:00@events-finder
+DTSTAMP:20261219T203000
+DTSTART;TZID=America/Chicago:20261219T203000
+SUMMARY:Tinsel & Tinis at Holiday Reflections
+LOCATION:Union Station
+URL:https://www.instagram.com/p/DfBGYBaOxCa/
+END:VEVENT
+BEGIN:VEVENT
+UID:28-2027-02-12T18:00:00-06:00@events-finder
 DTSTAMP:20270212T180000
 DTSTART;TZID=America/Chicago:20270212T180000
-SUMMARY:Science City After Hours (21+)
+SUMMARY:Science City After Hours
 LOCATION:Science City at Union Station
 URL:https://www.instagram.com/p/DfFHoIQnFiv/
 END:VEVENT
 BEGIN:VEVENT
-UID:16-2027-03-05T17:00:00-06:00@events-finder
-DTSTAMP:20270305T170000
-DTSTART;TZID=America/Chicago:20270305T170000
-SUMMARY:Transformation First Friday Reception
-LOCATION:Buttonwood Financial Group + Art Space
-URL:https://www.instagram.com/p/DeznNOYFLB7/
+UID:29-2027-03-27T11:00:00-05:00@events-finder
+DTSTAMP:20270327T110000
+DTSTART;TZID=America/Chicago:20270327T110000
+SUMMARY:My Senior Year of the USA Workshop (Session 2)
+LOCATION:Kansas City Artists Coalition
+URL:https://www.instagram.com/p/DfFffRdEbQY/
 END:VEVENT
 END:VCALENDAR
