@@ -2,223 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//events-finder//EN
 BEGIN:VEVENT
-UID:0-2026-11-06@events-finder
-DTSTAMP:20261106T000000
-DTSTART;TZID=America/Chicago:20261106T000000
-SUMMARY:CommUNITY Fest
-LOCATION:
-URL:https://www.instagram.com/p/DfISxq3FAeV/
+UID:0-2026-11-09@events-finder
+DTSTAMP:20261109T000000
+DTSTART;TZID=America/Chicago:20261109T000000
+SUMMARY:Centennial Veterans Day Weekend at the National WWI Museum and Memorial
+LOCATION:National WWI Museum and Memorial
+URL:https://www.instagram.com/p/DfaQQqWF8R6/
 END:VEVENT
 BEGIN:VEVENT
-UID:1-2026-11-06@events-finder
-DTSTAMP:20261106T000000
-DTSTART;TZID=America/Chicago:20261106T000000
-SUMMARY:Screen//Seen: The Graceful Site
-LOCATION:Kansas City Artists Coalition
-URL:https://www.instagram.com/p/DfXi4iThr0-/
-END:VEVENT
-BEGIN:VEVENT
-UID:2-2026-11-06@events-finder
-DTSTAMP:20261106T000000
-DTSTART;TZID=America/Chicago:20261106T000000
-SUMMARY:First Friday Closing: Edge Effect & The Distance Between
-LOCATION:Kansas City Artists Coalition
-URL:https://www.instagram.com/p/DfLO3O-xKXB/
-END:VEVENT
-BEGIN:VEVENT
-UID:3-2026-11-06@events-finder
-DTSTAMP:20261106T000000
-DTSTART;TZID=America/Chicago:20261106T000000
-SUMMARY:Holidays at the Belger Crane Yard Gallery
-LOCATION:Belger Crane Yard Gallery
-URL:https://www.instagram.com/p/DfSpEaoDB1z/
-END:VEVENT
-BEGIN:VEVENT
-UID:4-2026-11-06T11:00:00-06:00@events-finder
-DTSTAMP:20261106T110000
-DTSTART;TZID=America/Chicago:20261106T110000
-SUMMARY:First Friday: William Rainey – This, That, and the Other
-LOCATION:Blue Gallery
-URL:https://www.instagram.com/p/DfXTbRiAfz_/
-END:VEVENT
-BEGIN:VEVENT
-UID:5-2026-11-06T16:30:00-06:00@events-finder
-DTSTAMP:20261106T163000
-DTSTART;TZID=America/Chicago:20261106T163000
-SUMMARY:First Friday with Jass R Couch
-LOCATION:The Phoenix
-URL:https://www.instagram.com/p/DfXeKR3R3a4/
-END:VEVENT
-BEGIN:VEVENT
-UID:6-2026-11-06T17:00:00-06:00@events-finder
-DTSTAMP:20261106T170000
-DTSTART;TZID=America/Chicago:20261106T170000
-SUMMARY:Infinity / Loops: Casey Whittier Opening Reception
-LOCATION:Studios Inc
-URL:https://www.instagram.com/p/DfIEnAAjOiY/
-END:VEVENT
-BEGIN:VEVENT
-UID:7-2026-11-06T17:00:00-06:00@events-finder
-DTSTAMP:20261106T170000
-DTSTART;TZID=America/Chicago:20261106T170000
-SUMMARY:"Threads" by Hong Chun Zhang – Opening Reception
-LOCATION:Studios Inc
-URL:https://www.instagram.com/p/DfSfkQsEh4e/
-END:VEVENT
-BEGIN:VEVENT
-UID:8-2026-11-06T17:00:00-06:00@events-finder
-DTSTAMP:20261106T170000
-DTSTART;TZID=America/Chicago:20261106T170000
-SUMMARY:First Friday: John Raux | Ellipses… Opening
-LOCATION:Leedy-Voulkos Art Center
-URL:https://www.instagram.com/p/DfXRsOwkais/
-END:VEVENT
-BEGIN:VEVENT
-UID:9-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:Beast In Me: Opening Reception (First Friday)
-LOCATION:Vulpes Bastille
-URL:https://www.instagram.com/p/DfVw_l7mOog/
-END:VEVENT
-BEGIN:VEVENT
-UID:10-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:Woe is the Feejee Mermaid – Opening Reception
-LOCATION:Vulpes Bastille Gallery
-URL:https://www.instagram.com/p/DfYYGCUgbz-/
-END:VEVENT
-BEGIN:VEVENT
-UID:11-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:Holidays at the Belger Crane Yard Gallery – Opening Reception
-LOCATION:Belger Crane Yard Gallery
-URL:https://www.instagram.com/p/DfOE79cD3ZN/
-END:VEVENT
-BEGIN:VEVENT
-UID:12-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:First Friday Reception: Anne Herrero & Jason Needham
-LOCATION:Sherry Leedy Contemporary Art
-URL:https://www.instagram.com/p/DfXaSUrkcHQ/
-END:VEVENT
-BEGIN:VEVENT
-UID:13-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:First Friday: Holidays at the Belger Crane Yard Gallery
-LOCATION:Belger Crane Yard Gallery
-URL:https://www.instagram.com/p/DfPsdoiFJy6/
-END:VEVENT
-BEGIN:VEVENT
-UID:14-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:First Friday Glass Blowing Demo with Jamison Cole
-LOCATION:Belger Glass Annex
-URL:https://www.instagram.com/p/DfPsdoiFJy6/
-END:VEVENT
-BEGIN:VEVENT
-UID:15-2026-11-06T18:00:00-06:00@events-finder
-DTSTAMP:20261106T180000
-DTSTART;TZID=America/Chicago:20261106T180000
-SUMMARY:Beggars Bazaar Holiday Popup
-LOCATION:Beggars Table Church & Gallery
-URL:https://www.instagram.com/p/DfSi9WHBiIn/
-END:VEVENT
-BEGIN:VEVENT
-UID:16-2026-11-06T21:00:00-06:00@events-finder
-DTSTAMP:20261106T210000
-DTSTART;TZID=America/Chicago:20261106T210000
-SUMMARY:Carlton Rashad Live
-LOCATION:The Phoenix
-URL:https://www.instagram.com/p/DfXeKR3R3a4/
-END:VEVENT
-BEGIN:VEVENT
-UID:17-2026-11-07@events-finder
-DTSTAMP:20261107T000000
-DTSTART;TZID=America/Chicago:20261107T000000
-SUMMARY:The Berlin Wall: A World Divided – $10 Tickets
-LOCATION:Union Station Kansas City
-URL:https://www.instagram.com/p/DfXQDxyEcWm/
-END:VEVENT
-BEGIN:VEVENT
-UID:18-2026-11-07@events-finder
-DTSTAMP:20261107T000000
-DTSTART;TZID=America/Chicago:20261107T000000
-SUMMARY:KC Zine Con
-LOCATION:Bubblewrapp Toys
-URL:https://www.instagram.com/p/DfLOWO0xzLV/
-END:VEVENT
-BEGIN:VEVENT
-UID:19-2026-11-07@events-finder
-DTSTAMP:20261107T000000
-DTSTART;TZID=America/Chicago:20261107T000000
-SUMMARY:Overland Park Farmers Market
-LOCATION:Overland Park Farmers Market at Clock Tower Landing
-URL:https://www.instagram.com/p/DfM3EfwxWgE/
-END:VEVENT
-BEGIN:VEVENT
-UID:20-2026-11-07T08:00:00-06:00@events-finder
-DTSTAMP:20261107T080000
-DTSTART;TZID=America/Chicago:20261107T080000
-SUMMARY:Brookside Farmers Market – Last Outdoor Market of 2026
-LOCATION:HJ's Community Center
-URL:https://www.instagram.com/p/DfIiTKsBM1U/
-END:VEVENT
-BEGIN:VEVENT
-UID:21-2026-11-07T11:00:00-06:00@events-finder
-DTSTAMP:20261107T110000
-DTSTART;TZID=America/Chicago:20261107T110000
-SUMMARY:Día de Muertos Celebration & Parade on Central Avenue
-LOCATION:Central Avenue
-URL:https://www.instagram.com/p/DfS6AqQF0i4/
-END:VEVENT
-BEGIN:VEVENT
-UID:22-2026-11-07T11:30:00-06:00@events-finder
-DTSTAMP:20261107T113000
-DTSTART;TZID=America/Chicago:20261107T113000
-SUMMARY:Hong Chun Zhang Artist Talk & Book Launch with Wyatt Townley
-LOCATION:Studios Inc
-URL:https://www.instagram.com/p/DfSfkQsEh4e/
-END:VEVENT
-BEGIN:VEVENT
-UID:23-2026-11-07T13:00:00-06:00@events-finder
-DTSTAMP:20261107T130000
-DTSTART;TZID=America/Chicago:20261107T130000
-SUMMARY:Infinity / Loops: Artist Talk with Casey Whittier
-LOCATION:Studios Inc
-URL:https://www.instagram.com/p/DfIEnAAjOiY/
-END:VEVENT
-BEGIN:VEVENT
-UID:24-2026-11-07T13:30:00-06:00@events-finder
-DTSTAMP:20261107T133000
-DTSTART;TZID=America/Chicago:20261107T133000
-SUMMARY:Clay Yoga Sculpt Performance
-LOCATION:Studios Inc
-URL:https://www.instagram.com/p/DfIEnAAjOiY/
-END:VEVENT
-BEGIN:VEVENT
-UID:25-2026-11-07T16:30:00-06:00@events-finder
-DTSTAMP:20261107T163000
-DTSTART;TZID=America/Chicago:20261107T163000
-SUMMARY:The Piaget Experience Live
-LOCATION:The Phoenix
-URL:https://www.instagram.com/p/DfZNeJHx12D/
-END:VEVENT
-BEGIN:VEVENT
-UID:26-2026-11-08T10:00:00-06:00@events-finder
-DTSTAMP:20261108T100000
-DTSTART;TZID=America/Chicago:20261108T100000
-SUMMARY:Sunday Brunch with Millie & Dan
-LOCATION:The Phoenix
-URL:https://www.instagram.com/p/DfKv4DLRe9j/
-END:VEVENT
-BEGIN:VEVENT
-UID:27-2026-11-10T17:30:00-06:00@events-finder
+UID:1-2026-11-10T17:30:00-06:00@events-finder
 DTSTAMP:20261110T173000
 DTSTART;TZID=America/Chicago:20261110T173000
 SUMMARY:Let's Talk Crossroads! Community Listening Session
@@ -226,39 +18,47 @@ LOCATION:The Guild
 URL:https://www.instagram.com/p/DfP8HHMFg0J/
 END:VEVENT
 BEGIN:VEVENT
-UID:28-2026-11-12@events-finder
-DTSTAMP:20261112T000000
-DTSTART;TZID=America/Chicago:20261112T000000
-SUMMARY:Chloe McFadden Live – Thursday Night
-LOCATION:The Phoenix
-URL:https://www.instagram.com/p/DfXetNpRlXY/
+UID:2-2026-11-14T13:00:00-06:00@events-finder
+DTSTAMP:20261114T130000
+DTSTART;TZID=America/Chicago:20261114T130000
+SUMMARY:We Are Latinos II Screening & Archived Alchemy Artist Talk
+LOCATION:Leedy-Voulkos Art Center
+URL:https://www.instagram.com/p/DfabP2oGwhj/
 END:VEVENT
 BEGIN:VEVENT
-UID:29-2026-11-14T10:00:00-06:00@events-finder
-DTSTAMP:20261114T100000
-DTSTART;TZID=America/Chicago:20261114T100000
-SUMMARY:Pokémon Fan Celebration at Science City
-LOCATION:Science City at Union Station
-URL:https://www.instagram.com/p/DfVRKinGBWu/
+UID:3-2026-11-15T13:00:00-06:00@events-finder
+DTSTAMP:20261115T130000
+DTSTART;TZID=America/Chicago:20261115T130000
+SUMMARY:Woe is the Feejee Mermaid – Gallery Open Hours
+LOCATION:Vulpes Bastille Gallery
+URL:https://www.instagram.com/p/DfYYGCUgbz-/
 END:VEVENT
 BEGIN:VEVENT
-UID:30-2026-11-17T19:00:00-06:00@events-finder
+UID:4-2026-11-17T19:00:00-06:00@events-finder
 DTSTAMP:20261117T190000
 DTSTART;TZID=America/Chicago:20261117T190000
 SUMMARY:Film to Fork: The Hundred-Foot Journey
 LOCATION:Lonnie's Reno Club
-URL:https://www.instagram.com/p/DfVmE4oCZds/
+URL:https://www.instagram.com/p/DfPxYrYCZRZ/
 END:VEVENT
 BEGIN:VEVENT
-UID:31-2026-11-20@events-finder
+UID:5-2026-11-20@events-finder
 DTSTAMP:20261120T000000
 DTSTART;TZID=America/Chicago:20261120T000000
 SUMMARY:Holiday Reflections Opening at Union Station
-LOCATION:Union Station
-URL:https://www.instagram.com/p/DfSGi_pkaTc/
+LOCATION:Union Station Kansas City
+URL:https://www.instagram.com/p/DfdhzimFNv_/
 END:VEVENT
 BEGIN:VEVENT
-UID:32-2026-11-20T18:00:00-06:00@events-finder
+UID:6-2026-11-20T17:00:00-06:00@events-finder
+DTSTAMP:20261120T170000
+DTSTART;TZID=America/Chicago:20261120T170000
+SUMMARY:Central States Regional Exhibition – Preview Reception
+LOCATION:Kansas City Artists Coalition (KCAC) Main Gallery
+URL:https://www.instagram.com/p/Dfcj3hQj2uX/
+END:VEVENT
+BEGIN:VEVENT
+UID:7-2026-11-20T18:00:00-06:00@events-finder
 DTSTAMP:20261120T180000
 DTSTART;TZID=America/Chicago:20261120T180000
 SUMMARY:Book Social
@@ -266,39 +66,55 @@ LOCATION:Nelson-Atkins Museum of Art
 URL:https://www.instagram.com/p/DfSwcSLp8Nz/
 END:VEVENT
 BEGIN:VEVENT
-UID:33-2026-11-21T08:00:00-06:00@events-finder
+UID:8-2026-11-21T08:00:00-06:00@events-finder
 DTSTAMP:20261121T080000
 DTSTART;TZID=America/Chicago:20261121T080000
-SUMMARY:Brookside Farmers Market – Indoor Market
+SUMMARY:Brookside Farmers Market (Indoor Season)
 LOCATION:HJ's Community Center
-URL:https://www.instagram.com/p/DfIiTKsBM1U/
+URL:https://www.instagram.com/p/DfarqTNRYks/
 END:VEVENT
 BEGIN:VEVENT
-UID:34-2026-11-21T10:00:00-06:00@events-finder
+UID:9-2026-11-21T10:00:00-06:00@events-finder
+DTSTAMP:20261121T100000
+DTSTART;TZID=America/Chicago:20261121T100000
+SUMMARY:16th Annual Holiday Swing
+LOCATION:Union Station
+URL:https://www.instagram.com/p/Dfc72qrDqoZ/
+END:VEVENT
+BEGIN:VEVENT
+UID:10-2026-11-21T10:00:00-06:00@events-finder
 DTSTAMP:20261121T100000
 DTSTART;TZID=America/Chicago:20261121T100000
 SUMMARY:The 16th Annual Holiday Swing
-LOCATION:Union Station Kansas City – Haverty Yards
+LOCATION:Union Station Kansas City (Haverty Yards)
 URL:https://www.instagram.com/p/DfVrwIFtmz0/
 END:VEVENT
 BEGIN:VEVENT
-UID:35-2026-11-27@events-finder
-DTSTAMP:20261127T000000
-DTSTART;TZID=America/Chicago:20261127T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
+UID:11-2026-11-22T10:00:00-06:00@events-finder
+DTSTAMP:20261122T100000
+DTSTART;TZID=America/Chicago:20261122T100000
+SUMMARY:16th Annual Holiday Swing
+LOCATION:Union Station Kansas City
+URL:https://www.instagram.com/p/DfdxWfIACi8/
 END:VEVENT
 BEGIN:VEVENT
-UID:36-2026-11-28@events-finder
-DTSTAMP:20261128T000000
-DTSTART;TZID=America/Chicago:20261128T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
+UID:12-2026-11-22T10:00:00-06:00@events-finder
+DTSTAMP:20261122T100000
+DTSTART;TZID=America/Chicago:20261122T100000
+SUMMARY:The 16th Annual Holiday Swing
+LOCATION:Union Station Kansas City (Haverty Yards)
+URL:https://www.instagram.com/p/DfVrwIFtmz0/
 END:VEVENT
 BEGIN:VEVENT
-UID:37-2026-11-28T10:00:00-06:00@events-finder
+UID:13-2026-11-22T13:00:00-06:00@events-finder
+DTSTAMP:20261122T130000
+DTSTART;TZID=America/Chicago:20261122T130000
+SUMMARY:Woe is the Feejee Mermaid – Gallery Open Hours
+LOCATION:Vulpes Bastille Gallery
+URL:https://www.instagram.com/p/DfYYGCUgbz-/
+END:VEVENT
+BEGIN:VEVENT
+UID:14-2026-11-28T10:00:00-06:00@events-finder
 DTSTAMP:20261128T100000
 DTSTART;TZID=America/Chicago:20261128T100000
 SUMMARY:Merry Market (Weekend 1, Day 1)
@@ -306,23 +122,15 @@ LOCATION:Historic City Market
 URL:https://www.instagram.com/p/DfSi9WHBiIn/
 END:VEVENT
 BEGIN:VEVENT
-UID:38-2026-11-28T10:00:00-06:00@events-finder
+UID:15-2026-11-28T10:00:00-06:00@events-finder
 DTSTAMP:20261128T100000
 DTSTART;TZID=America/Chicago:20261128T100000
-SUMMARY:City Market's Annual Merry Market
+SUMMARY:Merry Market
 LOCATION:City Market KC
 URL:https://www.instagram.com/p/DfX95cyh2WB/
 END:VEVENT
 BEGIN:VEVENT
-UID:39-2026-11-29@events-finder
-DTSTAMP:20261129T000000
-DTSTART;TZID=America/Chicago:20261129T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:40-2026-11-29T10:00:00-06:00@events-finder
+UID:16-2026-11-29T10:00:00-06:00@events-finder
 DTSTAMP:20261129T100000
 DTSTART;TZID=America/Chicago:20261129T100000
 SUMMARY:Merry Market (Weekend 1, Day 2)
@@ -330,47 +138,15 @@ LOCATION:Historic City Market
 URL:https://www.instagram.com/p/DfSi9WHBiIn/
 END:VEVENT
 BEGIN:VEVENT
-UID:41-2026-12-04T10:00:00-06:00@events-finder
-DTSTAMP:20261204T100000
-DTSTART;TZID=America/Chicago:20261204T100000
-SUMMARY:Holiday Studio Sale & Open House
-LOCATION:Belger Crane Yard Studios
-URL:https://www.instagram.com/p/DfOE79cD3ZN/
+UID:17-2026-12-04T17:00:00-06:00@events-finder
+DTSTAMP:20261204T170000
+DTSTART;TZID=America/Chicago:20261204T170000
+SUMMARY:Central States Regional Exhibition – Opening Reception
+LOCATION:Kansas City Artists Coalition (KCAC) Main Gallery
+URL:https://www.instagram.com/p/Dfcj3hQj2uX/
 END:VEVENT
 BEGIN:VEVENT
-UID:42-2026-12-05@events-finder
-DTSTAMP:20261205T000000
-DTSTART;TZID=America/Chicago:20261205T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:43-2026-12-05T10:00:00-06:00@events-finder
-DTSTAMP:20261205T100000
-DTSTART;TZID=America/Chicago:20261205T100000
-SUMMARY:Holiday Studio Sale & Open House
-LOCATION:Belger Crane Yard Studios
-URL:https://www.instagram.com/p/DfOE79cD3ZN/
-END:VEVENT
-BEGIN:VEVENT
-UID:44-2026-12-05T20:30:00-06:00@events-finder
-DTSTAMP:20261205T203000
-DTSTART;TZID=America/Chicago:20261205T203000
-SUMMARY:Tinsel & Tinis at Holiday Reflections
-LOCATION:Union Station Kansas City
-URL:https://www.instagram.com/p/DfQHjKvBesC/
-END:VEVENT
-BEGIN:VEVENT
-UID:45-2026-12-06@events-finder
-DTSTAMP:20261206T000000
-DTSTART;TZID=America/Chicago:20261206T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:46-2026-12-10T17:00:00-06:00@events-finder
+UID:18-2026-12-10T17:00:00-06:00@events-finder
 DTSTAMP:20261210T170000
 DTSTART;TZID=America/Chicago:20261210T170000
 SUMMARY:Night/Shift: House Party
@@ -378,63 +154,15 @@ LOCATION:Nelson-Atkins Museum of Art
 URL:https://www.instagram.com/p/DfXfw9QxErC/
 END:VEVENT
 BEGIN:VEVENT
-UID:47-2026-12-12T11:30:00-06:00@events-finder
+UID:19-2026-12-12T11:30:00-06:00@events-finder
 DTSTAMP:20261212T113000
 DTSTART;TZID=America/Chicago:20261212T113000
-SUMMARY:Artist Talk with John Raux
+SUMMARY:Artist Talk with John Raux: Ellipses…
 LOCATION:Leedy-Voulkos Art Center
 URL:https://www.instagram.com/p/DfXRsOwkais/
 END:VEVENT
 BEGIN:VEVENT
-UID:48-2026-12-12T20:30:00-06:00@events-finder
-DTSTAMP:20261212T203000
-DTSTART;TZID=America/Chicago:20261212T203000
-SUMMARY:Tinsel & Tinis at Holiday Reflections
-LOCATION:Union Station Kansas City
-URL:https://www.instagram.com/p/DfQHjKvBesC/
-END:VEVENT
-BEGIN:VEVENT
-UID:49-2026-12-13@events-finder
-DTSTAMP:20261213T000000
-DTSTART;TZID=America/Chicago:20261213T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:50-2026-12-18T20:30:00-06:00@events-finder
-DTSTAMP:20261218T203000
-DTSTART;TZID=America/Chicago:20261218T203000
-SUMMARY:Tinsel & Tinis at Holiday Reflections
-LOCATION:Union Station Kansas City
-URL:https://www.instagram.com/p/DfQHjKvBesC/
-END:VEVENT
-BEGIN:VEVENT
-UID:51-2026-12-19@events-finder
-DTSTAMP:20261219T000000
-DTSTART;TZID=America/Chicago:20261219T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:52-2026-12-19T20:30:00-06:00@events-finder
-DTSTAMP:20261219T203000
-DTSTART;TZID=America/Chicago:20261219T203000
-SUMMARY:Tinsel & Tinis at Holiday Reflections
-LOCATION:Union Station Kansas City
-URL:https://www.instagram.com/p/DfQHjKvBesC/
-END:VEVENT
-BEGIN:VEVENT
-UID:53-2026-12-20@events-finder
-DTSTAMP:20261220T000000
-DTSTART;TZID=America/Chicago:20261220T000000
-SUMMARY:Holiday Market at Innovations
-LOCATION:Innovations Center at Union Station
-URL:https://www.instagram.com/p/DfQIVjeCdKD/
-END:VEVENT
-BEGIN:VEVENT
-UID:54-2027-01-08T00:00:00-06:00@events-finder
+UID:20-2027-01-08@events-finder
 DTSTAMP:20270108T000000
 DTSTART;TZID=America/Chicago:20270108T000000
 SUMMARY:Kansas City Restaurant Week 2027
@@ -442,7 +170,7 @@ LOCATION:Participating restaurants across Kansas City
 URL:https://www.instagram.com/p/DfQOpQvhVwh/
 END:VEVENT
 BEGIN:VEVENT
-UID:55-2027-02-06@events-finder
+UID:21-2027-02-06@events-finder
 DTSTAMP:20270206T000000
 DTSTART;TZID=America/Chicago:20270206T000000
 SUMMARY:Party Arty: Myths and Muses
